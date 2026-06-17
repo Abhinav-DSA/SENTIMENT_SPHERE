@@ -43,8 +43,6 @@ Built with clean, modular, and scalable design, **SentimentSphere** emphasizes e
 
 ## 🏗️ **Complete Architecture**
 
-```mermaid
-graph TD
     A[Raw Text Input] --> B[Data Preprocessing]
     B --> C[Feature Engineering & Vectorization]
     C --> D[Model Training / Inference]
